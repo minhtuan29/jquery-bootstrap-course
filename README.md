@@ -1,2 +1,1 @@
-# jquery-bootstrap-course
-free tutorial frontend basic for web backend developer
+Ngôn ngữ trình bày : Tiếng Việt ^
